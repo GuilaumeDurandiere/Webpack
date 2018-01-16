@@ -83,7 +83,7 @@ function component() {
 }
 
 document.body.appendChild(component());
-
+var toto = 3;
 
 /***/ }),
 /* 1 */
